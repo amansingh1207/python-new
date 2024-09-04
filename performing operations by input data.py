@@ -1,0 +1,6 @@
+a=int(input("enter the value of first no:"))
+b=int(input("enter the vslue of second no:"))
+print("the value of",a,"+",b,"is:",a+b)
+print("the value of",a,"-",b,"is:",a-b)
+print("the value of",a,"*",b,"is:",a*b)
+print("the value of",a,"/",b,"is:",a/b)
